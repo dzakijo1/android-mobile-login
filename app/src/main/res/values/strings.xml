@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Login Activity</string>
+    <string name="username">com.example.loginactivity.username</string>
+    <string name="login">com.example.loginactivity.login</string>
+</resources>
